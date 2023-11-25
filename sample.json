@@ -1,0 +1,22 @@
+{
+    "sentences": [
+      {
+        "sentence": "Hallo",
+        "toxic": false
+      },
+      {
+        "sentence": "Ich finde das toll was du da machst",
+        "toxic": false,
+        "toxicReason": "ein kompliment"
+      },
+      {
+        "sentence": "Test",
+        "toxic": true,
+        "toxicReason": "naja"
+      },
+      {
+        "sentence": "bla",
+        "toxic": false
+      }
+    ]
+  }
